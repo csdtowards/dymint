@@ -41,6 +41,7 @@ const (
 	Celestia Client = "celestia"
 	Avail    Client = "avail"
 	Grpc     Client = "grpc"
+	Zgda     Client = "zgda"
 )
 
 // Option is a function that sets a parameter on the da layer.
